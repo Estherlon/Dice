@@ -1,4 +1,4 @@
 # Dice
 
 Just for simple problem.
-Who will wash dished tonight???
+Who will wash the dishes tonight???
